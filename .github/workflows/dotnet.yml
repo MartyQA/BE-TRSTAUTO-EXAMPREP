@@ -16,7 +16,7 @@ jobs:
     env:
        TEST_USER_EMAIL: "testmail@mail.com"
        TEST_USER-PASS: "password"
-       BASE_URL: "https://localhost:5000:
+       BASE_URL: "https://localhost:5000
 
     steps:
     - uses: actions/checkout@v4
